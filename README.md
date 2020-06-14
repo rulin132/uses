@@ -56,5 +56,5 @@ Inspiration for my tech stack are from others such as:
 - [1Password](https://play.google.com/store/apps/details?id=com.agilebits.onepassword&hl=en) - One password manager for all my devices which also includes 2FA... Can't recommend enough.
 
 # Business
-[FreshBooks](https://freshbooks.com) - For invoicing and managing business expenses.
-[Zapier](https://zapier.com) - Links up my FreshBooks with Toggl, saves SOOO much time, I'm sure I'll automate my workflow more with it.
+- [FreshBooks](https://freshbooks.com) - For invoicing and managing business expenses.
+- [Zapier](https://zapier.com) - Links up my FreshBooks with Toggl, saves SOOO much time, I'm sure I'll automate my workflow more with it.
