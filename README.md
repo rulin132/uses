@@ -25,6 +25,7 @@ Inspiration for my tech stack are from others such as:
 
 - I'm currently using [Chrome Beta](https://www.google.com/chrome/beta) as my main browser and [Chrome Canary](https://www.google.com/chrome/canary) for development.
 - I use [Todoist App](https://beta.todoist.com) with a [GTD mindset](http://gettingthingsdone.com) for managing my tasks.
+- [Toggl](https://www.toggl.com) is like my personal assistant, keeping track how much time I'm spending.
 - I design everything in [Figma](http://figma.com).
 - I use [Notion](https://www.notion.so) to write, plan, collaborate, and get organized.
 - I use [Spotify](https://open.spotify.com) to listen to music all the time and code.
@@ -56,3 +57,4 @@ Inspiration for my tech stack are from others such as:
 
 # Business
 [FreshBooks](https://freshbooks.com) - For invoicing and managing business expenses.
+[Zapier](https://zapier.com) - Links up my FreshBooks with Toggl, saves SOOO much time, I'm sure I'll automate my workflow more with it.
