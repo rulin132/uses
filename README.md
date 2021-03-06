@@ -10,6 +10,15 @@ Inspiration for my tech stack are from others such as:
 > Work in Progress - Not even nearly a complete list, should expand of this rather soon.
 >
 
+# Office Setup
+
+-  [Lenovo Y520](https://www.lenovo.com/au/en/laptops/legion-laptops/lenovo-legion-y-series/Legion-Y520/p/88GMY500808) Works well for both heavy development, designing and gaming. I have swapped out the Ram two having 2 16GB Crucial DDR4 and swapped out the MVMe with the Samsung SSD 970 EVO 500GB.
+
+- Logitech MX Keys
+- Logitech MX Master 3 Mouse
+- [Copenhagen Solid Timber Desk](https://www.officeworks.com.au/shop/officeworks/p/copenhagen-solid-timber-1500mm-desk-otcopendsk)
+- [MacBook Air - 2020 Model](https://www.apple.com/au/macbook-air/) For all apple development, I got myself an MacBook Air and plan on getting a MacBook Pro later this year. 
+
 # Editor + Terminal
 - [PHP Storm](https://www.jetbrains.com/phpstorm/) for all PHP development work
 - I use [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui/) for [PHP Storm](https://www.jetbrains.com/phpstorm/)
